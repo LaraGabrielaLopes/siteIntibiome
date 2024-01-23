@@ -43,3 +43,13 @@
     width: 356px;
     height: 351px;
 }
+
+.img_carousel_discoveries {
+    width: 356px;
+    height: 232px;
+}
+
+.text_discoveries, .text_carousel {
+    color: #7B7070;
+    font-size: 20px;
+}
