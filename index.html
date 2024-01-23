@@ -3,7 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
     <title>INTIBIOME</title>
 </head>
 <body style="background-color: white;">
@@ -21,29 +24,65 @@
 
         <section>
             <div>
-                <h3>We’re here to help</h3>
-                <p>When it comes to caring for our most intimate areas, we’ve lost our connection.</p>
+                <h3 class="title_content">We’re here to help</h3>
+                <p class="text_content">When it comes to caring for our most intimate areas, we’ve lost our connection.</p>
                 
-                <p>Embarrassed, unwilling, or unable to communicate with others, we’re needlessly neglecting the parts of our bodies that need it most.</p> 
+                <p class="text_content">Embarrassed, unwilling, or unable to communicate with others, we’re needlessly neglecting the parts of our bodies that need it most.</p> 
                 
-                <p>We’re here to help. Providing you with the expertise, knowledge and products you need to feel confident in your personal care.</p>
+                <p class="text_content">We’re here to help. Providing you with the expertise, knowledge and products you need to feel confident in your personal care.</p>
+
                 <img src="./images/icons.png">
             </div>
             
             <div>
-                <h3>whatever your age. whatever your lifestyle. whatever your interests.</h3>
+                <h3 class="title_content">whatever your age. whatever your lifestyle. whatever your interests.</h3>
 
-                <p>Co-created with gynaecologists, our revolutionary products have been expertly developed to support your intimate microbiome and pH balance, and strengthen overall natural health.</p> 
+                <p class="text_content">Co-created with gynaecologists, our revolutionary products have been expertly developed to support your intimate microbiome and pH balance, and strengthen overall natural health.</p> 
                 
-                <p>As the experts in intimate hygiene, we want to bring discussion about intimate wellness care out of the dark and demystify the taboos that surround it.</p>
+                <p class="text_content">As the experts in intimate hygiene, we want to bring discussion about intimate wellness care out of the dark and demystify the taboos that surround it.</p>
             </div>
         </section>
 
         <section> 
-            <h3>our products</h3>
-            <img src="./images/image mask.png">
-            <p>intibiome wellness daily intimate wash</p>
-            <button>wellness</button>
+            <h3 class="title_content">our products</h3>
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+
+                    <div class="carousel-item active">
+                        <div class="card">
+                            <img class="card-img-top d-block w-100 img_carousel" src="images/image mask1.png" alt="Primeiro Slide">
+                            <div class="card-body">
+                            <p class="card-text">intibiome wellness daily intimate wash</p>
+                            <a href="#" class="btn btn-primary">wellness</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="card">
+                            <img class="card-img-top d-block w-100 img_carousel" src="images/image mask2.png" alt="Primeiro Slide">
+                            <div class="card-body">
+                            <p class="card-text">intibiome wellness daily intimate wash</p>
+                            <a href="#" class="btn btn-primary" style="background-color: green;">active</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="card">
+                            <img class="card-img-top d-block w-100 img_carousel" src="images/image mask3.png" alt="Primeiro Slide">
+                            <div class="card-body">
+                            <p class="card-text">intibiome wellness daily intimate wash</p>
+                            <a href="#" class="btn btn-primary" style="background-color: pink;">agecare</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+              </div>
+            <!--<img src="./images/image mask.png">
+            <p class="text_content">intibiome wellness daily intimate wash</p>
+            <button>wellness</button>-->
         </section>
 
         <section>
@@ -51,7 +90,7 @@
         </section>
 
         <section>
-            <h3>keep up to date with our discoveries</h3>
+            <h3 clas="title_content">keep up to date with our discoveries</h3>
             <img src="./images/Screen Shot.png">
             <button>see more</button>
         </section>
@@ -69,6 +108,10 @@
             <h3>U.labs</h3>
         </div>
     </footer>
-    
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
 </html>

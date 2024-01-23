@@ -22,9 +22,10 @@
     display: flex;
     flex-direction: column;
     text-align: center;
+    margin: 0 18px;
 }
 
-h3 {
+.title_content {
     font-weight: bold;
     font-size: 31px;
     color: #389CD6;
@@ -32,8 +33,13 @@ h3 {
     margin-top: 40px;
 }
 
-p{
+.text_content{
     font-size: 16px;
     color: #7B7070;
-    
+    padding-bottom: 15px;
+}
+
+.img_carousel {
+    width: 356px;
+    height: 351px;
 }
