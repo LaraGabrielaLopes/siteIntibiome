@@ -11,6 +11,7 @@
     width: 100%;
     height: 70px;
     align-items: center;
+    position: relative;
 }
 
 .menu_container {
@@ -26,41 +27,42 @@
     width: 11px;
     height: 2px;
     background-color: gray;
-    transition: 0.5s;
     margin: 3px;
 }
 
 .change .bar1 {
     transform: rotate(-45deg) translate(-6px, 6px);
-    background-color: #c18f59;
+    background-color: gray;
+    width: 11px;
 }
 
 .change .bar2 {
     opacity: 0;
-    background-color: #c18f59;
+    background-color: gray;
+    width: 11px;
 }
 
 .change .bar3 {
     transform: rotate(45deg) translate(-6px, -7px);
-    background-color: #c18f59;
+    background-color: gray;
+    width: 11px;
 }
 
 .menu_content {
     display: none;
-    position: fixed;
     width: 100%;
     height: 100%;
     background-color: #389CD6;
     z-index: 1;
-    margin-top: 0;
-    margin-left: 0;
-}
-
-.menu_content .menu_content ul {
     position: absolute;
     top: 70px;
-    left: 20px;
-    transform: translate(-50%, -50%);
+    right: 0px;
+}
+
+.list_menu_content {
+    background-color: #389CD6;
+    margin-top: 30px;
+    padding-left: 40px;
 }
 
 .menu_content li {

@@ -7,7 +7,7 @@ $(document).ready(function() {
     });
 });
 
-function clickMenu(x) {
+function menuFn(x) {
     x.classList.toggle("change")
 };
 
