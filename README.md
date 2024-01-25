@@ -25,7 +25,7 @@ O site é visualmente proporcional ao tamanho da tela, alterando tamanho de imag
 ## Testes
 <p>Versão Mobile</p>
 <ul>
-  <li>Na versão mobile, ao clicar no ícone menu aparecerão as opções de menu;</li>
+  <li>Ao clicar no ícone menu aparecerão as opções de menu;</li>
   <li>Ao clicar em qualquer uma das opções de menu, a página é carregada para a página inicial;</li>
   <li>Ao clicar no ícone fechar, as opções do menu serão fechadas e o ícone de menu original é restabelecido;</li>
   <li>Ao rolar a página, as imagens dos produtos e dos artigos passarão na forma de slides</li>
@@ -48,6 +48,28 @@ O site é visualmente proporcional ao tamanho da tela, alterando tamanho de imag
 O projeto pode ser acessado através do link: https://laragabrielalopes.github.io/siteItibiome/
 
 # Tecnologias utilizadas
+
+<ul>
+  <li>HTML5</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>JavaScript</li>
+</ul>
+
+# Pessoa Desenvolvedora do Projeto
+
+## Sobre mim:
+
+Olá, sou a Lara Gabriela e estou contente em tê-lo(a) aqui ;<br>
+Sou graduanda de Análise e Desenvolvimento de Sistemas e aluna de alguns cursos de JavaScript, Redes e Banco de Dados.
+Para que possamos nos conhecer melhor vão aí algumas características minhas:<br>
+Adoro estar com amigos e/mas também amo meu tempo sozinha. Ler, assistir, desenhar e pintar são alguns dos meus hobbies favoritos.<br>
+Ah, amo comer :D<br>
+E além disso, gosto de conhecer costumes, culturas e histórias diferentes.<br>
+
+Espero que possamos nos conectar em um futuro próximo.<br>
+Então, até mais...
+
 
 
 
