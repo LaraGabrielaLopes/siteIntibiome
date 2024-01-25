@@ -45,7 +45,7 @@ O site é visualmente proporcional ao tamanho da tela, alterando tamanho de imag
 ![siteIntibiome-ezgif com-crop2](https://github.com/LaraGabrielaLopes/siteItibiome/assets/124732741/965c56ab-aecd-470c-af96-bf1ff3439acd)
 
 # Acesso 
-O projeto pode ser acessado através do link: https://laragabrielalopes.github.io/siteItibiome/
+O projeto pode ser acessado através do link: https://laragabrielalopes.github.io/siteIntibiome/
 
 # Tecnologias utilizadas
 
