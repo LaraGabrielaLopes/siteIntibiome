@@ -22,24 +22,4 @@ function desktopV() {
 
     document.addEventListener('DOMContentLoaded'.desktopV);
     window.addEventListener('resize', desktopV);
-
 }
-
-
-    // const cardsContainer = document.getElementById('cardsContainner');
-
-    // const carouselContainer  = document.getElementById('carouselContainer');
-
-    // if (window.innerWidth < 768) {
-    //     cardsContainer.style.display = 'none';
-    //     carouselContainer.style.display = 'block';
-    // } else {
-    //     cardsContainer.style.display = 'flex';
-    //     carouselContainer.style.display = 'none';
-    // }
-
-    
-
-
-
-
