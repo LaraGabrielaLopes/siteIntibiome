@@ -3,12 +3,12 @@
 </h1>
 
 # Índice
-1. [Descrição do Projeto](#descrição-do-projeto)
-2. [Status do Projeto](#status-do-Projeto)
-3. [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-4. [Acesso ao Projeto](#acesso-ao-projeto)
-5. [Tecnologias utilizadas](#tecnologias-utilizadas)
-6. [Pessoa Desenvolvedora do Projeto](#pessoas-desenvolvedoras)
+1. Descrição do Projeto
+2. Status do Projeto
+3. Funcionalidades e Demonstração da Aplicação
+4. Acesso ao Projeto
+5. Tecnologias utilizadas
+6. Pessoa Desenvolvedora do Projeto
 
 # Descrição do Projeto
 Projeto desenvolvido para avaliação profissional.<br>
@@ -21,6 +21,36 @@ o conhecimento e os produtos necessários para se sentir confiante em seus cuida
 # Funcionalidades e Demonstração da Aplicação
 ## Responsividade
 O site é visualmente proporcional ao tamanho da tela, alterando tamanho de imagens, menu, forma de exibição dos produtos e rodapé quando acessado em smartphone, tablet ou desktop.<br>
+
+## Testes
+<p>Versão Mobile</p>
+<ul>
+  <li>Na versão mobile, ao clicar no ícone menu aparecerão as opções de menu;</li>
+  <li>Ao clicar em qualquer uma das opções de menu, a página é carregada para a página inicial;</li>
+  <li>Ao clicar no ícone fechar, as opções do menu serão fechadas e o ícone de menu original é restabelecido;</li>
+  <li>Ao rolar a página, as imagens dos produtos e dos artigos passarão na forma de slides</li>
+  <li>Os links de rodapé estão linkados à página inicial</li>
+</ul>
+
+![siteIntibiome-ezgif com-crop](https://github.com/LaraGabrielaLopes/siteItibiome/assets/124732741/4db1b1f1-f616-4d64-a1c4-83b3be213885)
+
+<p>Versão Desktop</p>
+<ul>
+  <li>O ícone de menu é eliminado e aparecerá um menu extenso;</li>
+  <li>Ao clicar em cada opção do menu extenso, aparecerão as opções de menu;</li>
+  <li>Ao rolar a página, as imagens dos produtos e dos artigos aparecerão na forma de cards, sem a animação de slides</li>
+  <li>Os links de rodapé estão linkados à página inicial</li>
+</ul>
+
+![siteIntibiome-ezgif com-crop2](https://github.com/LaraGabrielaLopes/siteItibiome/assets/124732741/965c56ab-aecd-470c-af96-bf1ff3439acd)
+
+# Acesso 
+O projeto pode ser acessado através do link: https://laragabrielalopes.github.io/siteItibiome/
+
+# Tecnologias utilizadas
+
+
+
 
 
 
